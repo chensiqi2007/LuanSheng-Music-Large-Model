@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* iOS 26 + 国风融合风格 */
+body {
+  background: #faf7f1;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", sans-serif;
+}
