@@ -10,6 +10,7 @@
   - OpenAI ChatGPT 音频生成
   - Google Gemini 音乐生成
   - 自定义大模型（HTTP）
+  - 违禁词检测（需要最新版本）
 
 ---
 
